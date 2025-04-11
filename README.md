@@ -3,7 +3,7 @@
 - 🌱 I’m currently building warehouse robots and earning my privte pilot certificate
 - ⚡ Fun fact: I like VR
 
-<!---
-ahmadster/ahmadster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Aviation Stuff
+Check out these videos showing all kinds of odd things that can happen to GA airplanes if you're not careful
+
+[![GA Airplane Oddities](https://img.youtube.com/vi/HFRnX7ZVGFo/0.jpg)](https://youtube.com/playlist?list=PLnjaM9eVs4ptgG0eeporNLMSBMC44BW6g&si=wCUrZ_mJIVuUCxxe)
